@@ -1,4 +1,4 @@
-ruby-koans-solutions
+Ruby Koans Solutions
 ====================
 
-Ruby Koans solutions
+This repository contains solutions to the EdgeCase [Ruby Koans](http://rubykoans.com) tutorial.
